@@ -14,6 +14,8 @@ namespace baitaptuan03
         int j = 3;
         int g = 6;
         int b = 7;
+
+        int a = 12133;
         public int Sum(int a, int b)
         {
             return a + b;
