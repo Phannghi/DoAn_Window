@@ -11,7 +11,7 @@ namespace baitaptuan03
         int x = 1;
         int y = 4;
         int z = 5;
-        
+        int j = 3;
         public int Sum(int a, int b)
         {
             return a + b;
