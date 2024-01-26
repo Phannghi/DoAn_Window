@@ -9,7 +9,8 @@ namespace baitaptuan03
     internal class Demo
     {
         int x = 1;
-        int y = 2;
+        int y = 3;
+        
         
         public int Sum(int a, int b)
         {
