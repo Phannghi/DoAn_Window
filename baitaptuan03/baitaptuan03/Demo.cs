@@ -12,6 +12,7 @@ namespace baitaptuan03
         int y = 4;
         int z = 5;
         int j = 3;
+        int g = 6;
         public int Sum(int a, int b)
         {
             return a + b;
